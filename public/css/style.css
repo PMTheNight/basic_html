@@ -1,0 +1,38 @@
+body {
+    background-color: #f5f6fa;
+}
+
+header {
+    background-color: #005f99;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.content {
+    max-width: 800px;
+    margin: auto;
+}
+
+.biography {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.achievements {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    background-color: #005f99;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
